@@ -1,0 +1,299 @@
+/* CONTAINER STARTS*/
+#parent{
+	background-color: white;
+	
+}
+/*CONTAINER ENDS*/
+
+/* ROW1 STARTS*/
+
+		#row1{
+			background-color:#404040;
+			color:white;
+		}
+		
+		p{
+		margin-top: 10px;
+		}
+		
+		.fafa{
+				color: white;
+				}
+		.drop{
+		margin-top: 10px;
+			color:black;
+		}
+		#fb,#goo,#insta,#tw{
+							margin: 10px;
+							font-size: 16px;
+							color:gray;
+							}
+		
+		h5{
+		margin-top: 10px;
+			margin-left: 80px;
+		}
+/* ROW1 ENDS*/
+
+ /*ROW2 STARTS*/
+	
+		#row2image{
+				margin-top:30px;
+			 	margin-left:80px;
+		}
+		
+		#row2col2{
+				margin-top:10px;
+				margin-left:80px;
+				color:#404040;
+		}
+		/*a{
+				margin-top:1px;
+				color:#404040;
+		}*/
+		ul{
+			
+		}
+		.navbar-nav{
+			float:right;
+			margin-top:10px;
+		}
+ /*ROW2 ENDS*/
+ 
+
+/* ROW3 STARTS*/
+		#bck_img{
+			background-image:url("images/texture-bw.png"); 
+			margin-top:15px;
+			color:black;
+		}
+		#cont{
+				margin-top: 40px;
+				margin-left: 80px;
+				}
+				
+		.car1{
+					width: 100%;
+					}
+		
+		h3{
+			style="color: black;
+			margin-top: 20px;
+			 margin-left: 60px ;
+			 margin-bottom: 20px;
+		}
+		h4{
+			margin-left:60px;
+		}
+		#row3anchors{
+				color:#404040;
+		}
+		#row2_color{
+					color: "green";
+					}
+/* ROW3 ENDS*/
+
+/* ROW4 STARTS*/
+		#row4{
+		margin-top: 20px;
+		/* margin-left: 5px; */
+		 margin-right: 200px;
+			/*align:center;*/
+			
+		}
+		
+		#row4-color{
+					background-color: black;
+					color: white;
+					}
+					
+					#row4marg{
+					margin-top: 10px;
+					}
+		
+		
+		#line-br-marg{
+		margin-left: 60px;margin-right: 60px;
+		}
+		
+		#s{
+			color: gray;
+			}
+		
+		.dash{
+				color: #009999;
+				}
+				
+		.row5col2img{
+						width: 50px;height: 50px;
+					}		
+				
+		#color1{
+				background-color: #009999;
+				}
+				
+		#ital{
+				color: gray;
+				}
+		
+		.list_row4{
+					
+					margin-left: 80px;
+					}
+		/* input{
+			width:100%;
+		} */
+		.color{
+		color:#009999;
+		}
+		
+		#send{
+				background-color: white;
+				border:1px solid blue;
+				color:blue;
+				
+		}	
+		
+				.form-1 {
+					border: 2px solid #eee;
+					padding: 10px;
+					width: 100%;
+					}
+		
+		#graybutton{
+					font-weight: bold;
+					background-color:gray;
+					height:40px;
+					text-align: center;
+					border-radius: 1px;
+					border:1px solid dimgray;
+					border-color: ;
+					color: white;
+					}
+		
+		#marg{
+				margin-left:60px;
+							}
+							
+		#mar1{
+				margin-left: 60px;
+				}
+				
+		#mar2{
+				margin-left: 80px;
+				}
+				
+		#mar3{
+				margin-left: 80px;
+				}
+				
+		#mar4{
+				margin-left: 80px;
+				}
+				
+		#margin-col6{
+						margin-left: 200px;
+						height:40px;
+						}
+						
+		#marg-col-new{
+						margin-left: 60px;
+						}
+				
+				.snd{
+					background-color: white;
+					border: 1px solid #0099999;
+					color:#009999;
+					}
+					
+				#sty{
+						margin-left: 80px;
+						}
+						
+						#margin-col-right{
+											align:left;
+										}
+						
+				#style1{
+						background-color:#66B2FF;border-radius: 25px;color:white;margin-left: 80px;
+						}
+						
+				#style2{
+						background-color:#66B2FF;border-radius: 25px;color:white;margin-left: 80px;
+						}
+						
+				#style3{
+						background-color:#009900;border-radius: 25px;color:white;margin-left: 80px;
+						}
+						
+				#style4{
+						background-color:#B22222;border-radius: 25px;color:white;margin-left: 80px;
+						}
+						
+				#style5{
+						
+						background-color:#F5CA07;border-radius: 25px;color:black;margin-left: 80px;
+
+						}
+
+/* ROW4 ENDS*/
+
+/* ROW6 STARTS*/
+
+		#color{
+				background-color: gray;
+				}
+		#row5{
+				margin-top: 2px;
+				margin-left: 90px;
+				}
+				
+		#add{
+			margin-left: 80px;
+		}
+		#row6{
+		margin-top: 20px;
+			height: 250px;
+			background-color:#404040;
+		}
+		#row5col1{
+			background-color:#404040;
+			color:white;
+			display:block;
+			margin-left: 40px;
+		}
+		#row5col2{
+			background-color:#404040;
+			color:white;
+			margin:auto;
+			display:block;
+		}
+ 		#row5col2img{
+ 			height:50px;
+ 			weight:50px;
+ 		}
+ 		#page{
+ 				margin-left: 80px;
+ 				}
+ /* ROW5 ENDS*/
+
+/* ROW6 STARTS*/
+		.page1{
+				margin-left: 80px;
+				}
+ 		#row6{
+		height: 100px;
+		background-color:black;
+		}
+		#row6col1{
+			margin-top:45px;
+			margin-left:45px;
+			background-color:black;
+			color:white;
+		}
+ /* ROW6 ENDS*/
+	
+/* ROW 7 STARTS HERE*/
+#row7{
+	background-color: black;
+}
